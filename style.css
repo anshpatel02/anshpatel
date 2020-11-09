@@ -110,7 +110,7 @@ h2 {
   }
   
   60%, 90% {
-    width: 9.5em;
+    width: 9.4em;
   }
 }
 
@@ -119,7 +119,7 @@ h2 {
     width: 0;
   }
   10%, 40% {
-    width: 8.9em;
+    width: 8.3em;
   }
 }
 
@@ -194,16 +194,16 @@ body {
     text-align: left;
 }
 .tab {
-    margin-left: 109px;
+    margin-left: 100px;
 }
 #aatab{
-    margin-left: 250px;
+    margin-left: 245px;
 }
 #nitab{
-    margin-left: 206px;
+    margin-left: 199px;
 }
 #matab{
-    margin-left: 170px;
+    margin-left: 163px;
 }
 #alllangu{
     margin-top: 30px;
