@@ -193,17 +193,12 @@ body {
 .head3{
     text-align: left;
 }
-.tab {
-    margin-left: 100px;
+#tools{
+    margin-top: 50px;
 }
-#aatab{
-    margin-left: 245px;
-}
-#nitab{
-    margin-left: 199px;
-}
-#matab{
-    margin-left: 163px;
+#dse{
+    margin-top: 35px;
+    font-weight: 390;
 }
 #alllangu{
     margin-top: 30px;
