@@ -110,7 +110,7 @@ h2 {
   }
   
   60%, 90% {
-    width: 10em;
+    width: 9.2em;
   }
 }
 
@@ -119,7 +119,7 @@ h2 {
     width: 0;
   }
   10%, 40% {
-    width: 8.9em;
+    width: 8.2em;
   }
 }
 
@@ -139,7 +139,7 @@ body {
 }
 .my-subject{
     font-weight: 385;
-    margin-left: 60px;
+    margin-left: 70px;
     margin-right: 50px;
     text-align: left;
 }
@@ -155,13 +155,10 @@ body {
 }
 .para-about{
     margin-top: 150px;
-    text-align: center;
-    margin-right: 37px;
+    text-align: left;
 }
 .para-skills{
     margin-top: 150px;
-    margin-right: 70px;
-    margin-left: 100px;
 }
 .langu{
     font-weight: 500;
@@ -188,34 +185,34 @@ body {
     font-family: Lucida Sans Typewriter;
 }
 .head2{
-    text-align: center;
-    margin-right: 76px;
+    text-align: left;
 }
 .head1{
-    text-align: center;
+    text-align: left;
 }
 .head3{
-    text-align: center;
-    margin-right: 78px;
+    text-align: left;
 }
 .tab {
-    margin-left: 150px;
+    margin-left: 109px;
 }
 #aatab{
-    margin-left: 290px;
+    margin-left: 250px;
 }
 #nitab{
-    margin-left: 243px;
+    margin-left: 206px;
 }
 #matab{
-    margin-left: 207px;
+    margin-left: 170px;
 }
 #alllangu{
     margin-top: 30px;
     font-weight: 390;
 }
 #name{
-    margin-bottom: 50px;
+    text-align: left;
+    margin-bottom: 30px;
+    margin-right: 100px;
 }
 .js--wp-1{
     opacity: 0;
@@ -305,19 +302,4 @@ body {
   top: 0;
   left: 0;
   animation: progress 1s linear;
-}
-@keyframes progress {
-  to {
-    background-color: rgb(20, 255, 226);
-    width: 100%;
-  }
-}
-:root * {
-  /* Pause the animation */
-  animation-play-state: paused;
-  /* Bind the animation to scroll */
-  animation-delay: calc(var(--scroll) * -1s);
-  /* These last 2 properites clean up overshoot weirdness */
-  animation-iteration-count: 1;
-  animation-fill-mode: both;
 }
