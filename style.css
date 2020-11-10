@@ -177,7 +177,6 @@ body {
 .para-email{
     margin-top: 100px;
     position: relative;
-    margin-right: 500px;
     text-align: left;
 }
 .para-about{
@@ -201,13 +200,16 @@ body {
 #onep{
     margin-top: 10px;
     font-size: 22px;
+    font-family: Arial;
 }
 #solar{
     margin-top: 90px;
+    font-family: Arial;
 }
 #solarcontent{
     margin-top: 10px;
     font-size: 22px;
+    font-family: Arial;
 }
 .head2{
     text-align: left;
